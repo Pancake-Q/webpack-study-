@@ -1,0 +1,22 @@
+/*
+ * @Author       : Pancake
+ * @Date         : 2022-04-13 23:11:58
+ * @LastEditTime : 2022-04-13 23:14:54
+ * @LastEditors  : Pancake
+ * @FilePath     : \oktest\webpack-init\tsconfig.json
+ * @Description  : tsconfig.json
+ */
+{
+  "compilerOptions": {
+    "target": "es2016",                        
+    "module": "esnext",                  
+    "moduleResolution": "node",                   
+    "baseUrl": "./",                               
+    "paths": {
+      "@/*": ["./src/*"]
+    },                                      
+    "allowSyntheticDefaultImports": true, 
+    "esModuleInterop": true, 
+    "skipLibCheck": true                                
+  }
+}
