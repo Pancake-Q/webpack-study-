@@ -1,12 +1,3 @@
-<!--
- * @Author       : Pancake
- * @Date         : 2022-02-28 10:08:08
- * @LastEditTime : 2022-02-28 16:10:00
- * @LastEditors  : Pancake
- * @FilePath     : \webpack-init\webpack-init\README.md
- * @Description  :
--->
-
 # webpack-init
 
 #### webpack 入门介绍
