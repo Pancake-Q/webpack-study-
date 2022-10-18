@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>编组 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上传封面" transform="translate(-704.000000, -810.000000)">
+            <g id="编组-14" transform="translate(704.000000, 810.000000)">
+                <rect id="矩形" stroke="#309BFF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="18" height="18" rx="4"></rect>
+                <path d="M6.59619408,5.09619408 C7.10902992,5.09619408 7.53170124,5.48223427 7.58946635,5.97957295 L7.59619408,6.09619408 L7.596,10.096 L14.5961941,10.0961941 C15.1090299,10.0961941 15.5317012,10.4822343 15.5894663,10.979573 L15.5961941,11.0961941 C15.5961941,11.6090299 15.2101539,12.0317012 14.7128152,12.0894663 L14.5961941,12.0961941 L6.59619408,12.0961941 C6.08335824,12.0961941 5.66068692,11.7101539 5.60292181,11.2128152 L5.59619408,11.0961941 L5.59619408,6.09619408 C5.59619408,5.54390933 6.04390933,5.09619408 6.59619408,5.09619408 Z" id="路径" fill="#309BFF" fill-rule="nonzero" transform="translate(10.596194, 8.596194) rotate(-45.000000) translate(-10.596194, -8.596194) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

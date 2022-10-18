@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>右箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-177.000000, -169.000000)" fill="currentColor">
+            <path d="M182.782698,174.5 L178.147684,169.861424 C177.950772,169.664361 177.950772,169.34486 178.147684,169.147797 C178.344595,168.950734 178.663851,168.950734 178.860763,169.147797 L183.852316,174.143186 C184.049228,174.340249 184.049228,174.659751 183.852316,174.856814 L178.860763,179.852203 C178.663851,180.049266 178.344595,180.049266 178.147684,179.852203 C177.950772,179.65514 177.950772,179.335639 178.147684,179.138576 L182.782698,174.5 Z" id="路径" transform="translate(181.000000, 174.500000) rotate(-360.000000) translate(-181.000000, -174.500000) "></path>
+        </g>
+    </g>
+</svg>

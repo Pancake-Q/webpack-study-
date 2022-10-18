@@ -68,7 +68,17 @@ module.exports = {
             {
                 test: /\.(js|jsx|mjs|tsx|ts)$/,
                 use: ['babel-loader', 'ts-loader'],
-                // exclude: [/node_modules/, /public/],
+                exclude: [/node_modules/, /public/],
+            },
+            {
+                test: /\.(png|svg|jpg|gif|jpeg)$/,
+                type: 'asset/resource',
+                generator: {
+                    filename: 'img/[hash:8][ext][query]'
+                },
+                exclude: [
+                    path.resolve(__dirname, "../src/assets/svg")
+                ]
             },
         ],
     },

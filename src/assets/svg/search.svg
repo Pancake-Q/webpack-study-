@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>搜索</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-298.000000, -168.000000)" stroke="#309BFF">
+            <g id="搜索icon" transform="translate(299.000000, 169.000000)">
+                <circle id="椭圆形" cx="5.83333333" cy="5.83333333" r="5.33333333"></circle>
+                <path d="M11.7793491,9.01150175 L11.7793491,12.5948351 C11.7793491,12.6408588 11.8166587,12.6781684 11.8626824,12.6781684 C11.9087062,12.6781684 11.9460158,12.6408588 11.9460158,12.5948351 L11.9460158,9.01150175 L11.7793491,9.01150175 Z" id="矩形" transform="translate(11.862682, 10.844835) rotate(-45.000000) translate(-11.862682, -10.844835) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

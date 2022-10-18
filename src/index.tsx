@@ -1,19 +1,13 @@
 import ReactDOM from 'react-dom';
 
-import React, { lazy, Suspense } from 'react';
-
-import Home from './pages/Home';
-
-// const A = lazy(() => import('./pages/Fenlei'));
+import React from 'react';
+import img from './assets/img/closeBg.png';
 
 const App = () => {
-    // const handleClick = () => {
-    //     console.log('xixixixi');
-    //     import('./pages/Fenlei');
-    // };
     return (
         <div>
-            ccc <Home />
+            <img src={img} alt="" />
+            {/* ccc <Home /> */}
             {/* <Suspense fallback="loadding">
                 <A />
             </Suspense> */}

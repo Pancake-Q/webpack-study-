@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>文件夹-灰</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E0E0E0" offset="0%"></stop>
+            <stop stop-color="#BDBDBD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-136.000000, -112.000000)">
+            <g id="文件夹-灰" transform="translate(136.000000, 112.000000)">
+                <rect id="ic_文件夹" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                <path d="M17.5,2 C17.7761424,2 18,2.22385763 18,2.5 L18,16.5 C18,16.7761424 17.7761424,17 17.5,17 L2.5,17 C2.22385763,17 2,16.7761424 2,16.5 L2,4.5 C2,4.22385763 2.22385763,4 2.5,4 L11,4 L11.8618034,2.2763932 C11.9464994,2.10700119 12.119631,2 12.309017,2 L17.5,2 Z M5.75,12 C5.33578644,12 5,12.3357864 5,12.75 C5,13.1642136 5.33578644,13.5 5.75,13.5 L14.25,13.5 C14.6642136,13.5 15,13.1642136 15,12.75 C15,12.3357864 14.6642136,12 14.25,12 L5.75,12 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

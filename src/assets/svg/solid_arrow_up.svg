@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>实上箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-339.000000, -171.000000)" fill="#757575">
+            <path d="M344.707107,172.707107 L348.292893,176.292893 C348.683418,176.683418 348.683418,177.316582 348.292893,177.707107 C348.105357,177.894643 347.851003,178 347.585786,178 L340.414214,178 C339.861929,178 339.414214,177.552285 339.414214,177 C339.414214,176.734784 339.51957,176.48043 339.707107,176.292893 L343.292893,172.707107 C343.683418,172.316582 344.316582,172.316582 344.707107,172.707107 Z" id="上箭头" transform="translate(344.000000, 175.000000) scale(-1, 1) translate(-344.000000, -175.000000) "></path>
+        </g>
+    </g>
+</svg>

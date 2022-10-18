@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ok头像</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#94B8FF" offset="0%"></stop>
+            <stop stop-color="#AFC8FA" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="交互设计框架（完整）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-245.000000, -168.000000)">
+            <g id="OK号头像" transform="translate(245.000000, 168.000000)">
+                <circle id="椭圆形" fill="url(#linearGradient-1)" cx="7" cy="7" r="7"></circle>
+                <path d="M9.33317003,5.86074035 C9.34825344,4.57256426 8.31658215,3.51589071 7.02846086,3.50017722 C5.74033957,3.48446374 4.68320076,4.51565638 4.66685836,5.80381712 C4.65051596,7.09197785 5.68115402,8.14965926 6.96925934,8.16666667 C8.25510536,8.17356481 9.30810683,7.14640796 9.33317003,5.86074035 Z" id="Path" fill="#FFFFFF"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="4.27777778" y="9.33333333" width="5.44444444" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

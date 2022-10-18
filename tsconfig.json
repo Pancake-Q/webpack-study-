@@ -7,16 +7,17 @@
  * @Description  : tsconfig.json
  */
 {
-  "compilerOptions": {
-    "target": "es2016",                        
-    "module": "esnext",                  
-    "moduleResolution": "node",                   
-    "baseUrl": "./",                               
-    "paths": {
-      "@/*": ["./src/*"]
-    },                                      
-    "allowSyntheticDefaultImports": true, 
-    "esModuleInterop": true, 
-    "skipLibCheck": true                                
-  }
+    "compilerOptions": {
+        "target": "es2016",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["./src/*"]
+        },
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "jsx": "react"
+    }
 }
